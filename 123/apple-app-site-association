@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "5GU6GH73W9.org.reactjs.native.example.Mobile" ],
+             "components": [
+               {
+                  "/": "/*",
+                  "comment": "Matches any URL."
+               },
+             ]
+           }
+       ]
+   }
+}
